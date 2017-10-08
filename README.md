@@ -12,7 +12,7 @@
 ### Not working? Here's a common mistake checklist!
 1. Did you follow the correct syntax?
   * EXAMPLE:  `var exampleVariable = "This is an example variable."`
-2. Did you use " " when writing text?
+2. Did you use " " when making a string (text)?
 3. Did you name EVERY variable EXACTLY like these:
   * `myName`
   * `myAge`
@@ -22,4 +22,4 @@
 
 ### If you finish early....
 * Make up two more variables!
-* We are using the `alert()` function to create the popup. Add your new variable to the popup text.
+* We are using the `alert()` function to create the popup. Try to add your new variable to the popup text.
