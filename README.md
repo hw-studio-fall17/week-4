@@ -12,7 +12,7 @@
 ### Not working? Here's a common mistake checklist!
 1. Did you follow the correct syntax?
   * EXAMPLE:  `var exampleVariable = "This is an example variable."`
-2. Did you use " " when making a string (text)?
+2. Did you use " " when setting the variable equal to a string (text)?
 3. Did you name EVERY variable EXACTLY like these:
   * `myName`
   * `myAge`
