@@ -23,3 +23,12 @@
 ### If you finish early....
 * Make up two more variables!
 * We are using the `alert()` function to create the popup. Try to add your new variable to the popup text.
+
+
+## WEEK 4: HOMEWORK!
+* Go to www.repl.it
+* Login
+    - username: yourfirstname_yourlastname
+    - password: hwstudio5122
+* Click on our Web Development classroom
+* Find the week 4 assignment
